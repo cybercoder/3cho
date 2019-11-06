@@ -19,7 +19,7 @@
     "graphql-redis-subscriptions": "^2.1.1",
     "jsonwebtoken": "^8.5.1",
     "merge-graphql-schemas": "^1.7.0",
-    "mongoose": "^5.7.3",
+    "mongoose": "^5.7.5",
     "mongoosejs-soft-delete": "^1.0.2",
     "pino": "^5.13.4",
     "pino-pretty": "^3.2.2",
